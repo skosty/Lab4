@@ -1,15 +1,5 @@
-
 import java.util.Arrays;
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- *
- * @author danhurwitz
- */
 public class State {
   
   int[][] state = new int[4][4];
@@ -145,7 +135,5 @@ public class State {
     System.out.println(s);
     AES.printColumnMatrix(state);
   }
-  
-  
   
 }

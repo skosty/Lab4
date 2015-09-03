@@ -1,4 +1,3 @@
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -11,20 +10,8 @@ import java.io.PrintWriter;
 import java.util.Arrays;
 import java.util.Scanner;
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- *
- * @author danhurwitz
- */
 public class AES {
 
-  /**
-   * @param args the command line arguments
-   */
   public static void main(String[] args) {
     
     
@@ -116,6 +103,5 @@ public class AES {
       System.out.println("");
     }
     } // end printColumnMatrix
- 
   
 } // end class 

@@ -1,12 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- *
- * @author danhurwitz
- */
 public class AESHelper {
   
   static int[] Sbox = {
@@ -307,9 +298,5 @@ public class AESHelper {
     return retstate;
     
   }
-  
-  
-  
-  
   
 } // end class 

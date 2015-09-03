@@ -1,15 +1,5 @@
-
 import java.util.Arrays;
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- *
- * @author danhurwitz
- */
 class Key {
   
   int[][] enckey;
@@ -169,6 +159,5 @@ class Key {
 //    }
 //    System.out.println("");
   }
-  
   
 }
